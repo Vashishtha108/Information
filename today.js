@@ -8,15 +8,17 @@ const _ = {
     },
     "Do" : [
         "netflix", 
-        "prayers", 
+        "prayers and devotion", 
         "inside food",
-        "underweight",
+        "evening walk",
+        "morning exercises"
     ],
     "Do Not" : [
         "pc games",
         "laptop",
         "outside food", 
         "late sleep",
-        "",
+        "morning walk"
+        "evening exercises",
     ],
 };
