@@ -1,4 +1,5 @@
 const divyaAstras = [
+    "CHANDRAHAAS TALWAR"
     "Siddhagangastra",
     "Aakashgangastra",
     "Saptarishiastra",
