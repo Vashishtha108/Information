@@ -11,7 +11,8 @@ const _ = {
         "prayers and devotion", 
         "inside food",
         "evening walk",
-        "morning exercises"
+        "morning exercises", 
+"combination of bharmacharya, dot focus long and time"
     ],
     "Do Not" : [
         "pc games",
