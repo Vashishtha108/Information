@@ -8,12 +8,15 @@ const _ = {
     },
     "Do" : [
         "netflix", 
+        "reading self-help books and novels", 
         "prayers and devotion", 
         "inside food",
+// reading shrimad bhagvatgeeta
         "evening walk",
         "morning exercises", 
-"app lock"
-"combination of bharmacharya, dot focus long and time"
+        "app lock", 
+        "5-minute dot focus and bhramacharaya",
+        "follow reverse order"
     ],
     "Do Not" : [
         "pc games",
