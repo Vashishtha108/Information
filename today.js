@@ -12,6 +12,7 @@ const _ = {
         "inside food",
         "evening walk",
         "morning exercises", 
+"app lock"
 "combination of bharmacharya, dot focus long and time"
     ],
     "Do Not" : [
