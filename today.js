@@ -9,6 +9,7 @@ const _ = {
     "Do" : [
         "reading self-help books and novels", 
         "prayers and devotion", 
+        "hot water"
         "inside food",
 // reading shrimad bhagvatgeeta
         "evening walk without glasses with krishna naam with mask",
