@@ -7,7 +7,6 @@ const _ = {
         "11:00 pm - 04:00 pm" : "sleep", 
     },
     "Do" : [
-        "netflix", 
         "reading self-help books and novels", 
         "prayers and devotion", 
         "inside food",
@@ -15,7 +14,7 @@ const _ = {
         "evening walk without glasses with krishna naam with mask",
         "morning exercises", 
         "app lock", 
-        "5-minute dot focus library during 6-7 pm and bhramacharaya",
+        "5-minute dot focus (library evening) and bhramacharaya",
 ""
         "follow reverse order"
     ],
