@@ -1,6 +1,6 @@
 const _ = { 
     "Time table" : {
-        "04:00 am - 08:00 am" : "Pooja and coaching",
+        "04:00 am - 08:00 am" : "Pooja, bath and coaching",
         "08:30 am - 06:30 pm" : "Coaching",
         "07:00 pm - 08:00 pm" : "Pooja",
         "08:00 pm - 11:00 pm" : "Reading on terrace",
