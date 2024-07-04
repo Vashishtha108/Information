@@ -12,10 +12,11 @@ const _ = {
         "prayers and devotion", 
         "inside food",
 // reading shrimad bhagvatgeeta
-        "evening walk without glasses",
+        "evening walk without glasses with krishna naam",
         "morning exercises", 
         "app lock", 
         "5-minute dot focus library during 6-7 pm and bhramacharaya",
+""
         "follow reverse order"
     ],
     "Do Not" : [
