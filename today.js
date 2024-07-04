@@ -12,7 +12,7 @@ const _ = {
         "prayers and devotion", 
         "inside food",
 // reading shrimad bhagvatgeeta
-        "evening walk without glasses with krishna naam",
+        "evening walk without glasses with krishna naam with mask",
         "morning exercises", 
         "app lock", 
         "5-minute dot focus library during 6-7 pm and bhramacharaya",
