@@ -1,4 +1,9 @@
 const _ = {
+    "Force fields" : {
+        "Status" : "Requirement", 
+        "Inertia" : 1,
+        "Description" : "undesired energies", 
+    }
     "Friends" : {
         "Status" : "Requirement",
         "Personal status" : "Qualified",
