@@ -27,4 +27,5 @@ const _values = {
     "seniors" : "shiv sati vishnu vaishnavi",
     "wives" : "9 mahadevi's + 9 durgaroop's",
     "ganpati sati" : "chigga vashishtha",
+"quella eta"
 };
