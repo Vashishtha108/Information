@@ -8,6 +8,7 @@ const divyaAstras = [
     "Mrityunjayastra",
     "Parjanyastra",
     "Bharghavastra",
+    "Bajrangastra",
     "Sisirastra",
     "Siddeshwarastra",
     "Kaljarynastra",
