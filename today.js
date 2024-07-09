@@ -7,7 +7,7 @@ const _ = {
         "11:00 pm - 04:00 pm" : "sleep", 
     },
     "Do" : [
-        "reading self-help books and novels", 
+        "2-hour reading self-help books and novels", 
         "prayers and devotion", 
         "hot water"
         "inside food",
