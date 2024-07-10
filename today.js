@@ -14,6 +14,7 @@ const _ = {
 // reading shrimad bhagvatgeeta
         "evening walk without glasses with krishna naam with mask",
         "daily class 7/7", 
+        "morning warmup"
         "morning exercises", 
         "app lock", 
         "5-minute dot focus (library evening) and bhramacharaya",
@@ -26,6 +27,7 @@ const _ = {
         "outside food", 
         "late sleep",
         "morning walk"
+        "evening warmup"
         "evening exercises",
     ],
 };
