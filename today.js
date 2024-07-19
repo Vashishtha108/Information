@@ -1,4 +1,4 @@
-const _ = { 
+war _ = { 
     "Time table" : {
         "04:00 am - 08:00 am" : "Pooja, bath and coaching",
         "08:30 am - 07:00 pm" : "Coaching",
@@ -15,8 +15,8 @@ const _ = {
 // reading shrimad bhagvatgeeta
         "evening walk without glasses with krishna naam with mask",
         "daily class 7/7", 
-        "morning warmup"
         "morning exercises", 
+        "morning warmup"
         "app lock", 
         "5-minute dot focus (library evening) and bhramacharaya",
 ""
