@@ -13,7 +13,7 @@ war _ = {
         "inside food",
         "white and black mobile screen", 
 // reading shrimad bhagvatgeeta
-        "evening walk without glasses with krishna naam with mask",
+        "evening walk"
         "daily class 7/7", 
         "morning exercises", 
         "morning warmup"
