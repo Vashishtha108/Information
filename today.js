@@ -11,7 +11,7 @@ const _ = {
         "prayers and devotion", 
         "hot water"
         "inside food",
-        "white and black mobile screen"
+        "white and black mobile screen", 
 // reading shrimad bhagvatgeeta
         "evening walk without glasses with krishna naam with mask",
         "daily class 7/7", 
