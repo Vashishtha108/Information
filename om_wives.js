@@ -8,7 +8,7 @@ const _values = {
     "Maa Mahakali ji" : "Vaahishree # Hande ercel",
     "Maa Vindyavasini ji" : "Vanshishkashree # ogze yagiz",
     "Maa Ganga ji" : "Vanshishree # vanshika + sunny", 
-    "Maa Durga ji" : "Vaanishree # zendaya", 
+    "Maa  ji" : "Vaanishree # vaani + zendaya", 
     
 
   
