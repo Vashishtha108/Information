@@ -4,13 +4,13 @@ const _values = {
     // Imported as sattava guna to bhakti.
 "wazard body of long life and dark blue violet skin colour "
     "Maa Parvati ji" : "Aarohishree # shraddha kapoor",
-    "Maa Mahalakshmi ji" : "Vidhishree # vardha (amisha) + amber heard",
+    "Maa Lakshmi ji" : "Vidhishree # vardha (amisha) + amber heard",
     "Maa Mahakali ji" : "Vaahishree # Hande ercel",
     "Maa Vindyavasini ji" : "Vanshishkashree # ogze yagiz",
     "Maa Ganga ji" : "Vanshishree # vanshika + sunny", 
-    "Maa  ji" : "Vaanishree # vaani + zendaya", 
-    
-
+    "Maa ji" : "Vaanishree # vaani + zendaya",
+    "Maa Chandika ji" : "Vednashree # vedna + Nancy momoland", 
+    "Maa ji" : "Vanshitashree # vanshita + kristen stewart", 
   
     // Imported as sattava guna to bhakti
     "Bhagwan Hanuman ji" : {
