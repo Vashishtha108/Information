@@ -15,6 +15,7 @@ const divyaAstras = [
     "Mahamayvastra",
     "Pushpastra",
     "Mahamohastra",
+    "Poondarikakshastra"
     "Samvartastra",
     "keshavastra",
     "Pavakastra",
