@@ -1,4 +1,11 @@
 war _ = { 
+"Priority" : [ 
+"Radha Krishna 30 + 30 Consiousness", 
+"Brain surgery", 
+"5-minute dot focus",
+"CAT 2024",
+ "Vidhi" 
+],
     "Time table" : {
         "04:00 am - 08:00 am" : "Pooja, bath and coaching",
         "08:30 am - 07:00 pm" : "Coaching",
