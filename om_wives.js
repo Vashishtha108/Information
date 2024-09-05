@@ -7,11 +7,11 @@ const _values = {
     "Maa Lakshmi ji" : "Vidhishree # vardha (amisha) + amber heard",
     "Maa Mahakali ji" : "Vaahishree # Hande ercel",
     "Maa Vindyavasini ji" : "Vanshishkashree # ogze yagiz",
-    "Maa Ganga ji" : "Vanshishree # vanshika + sunny", 
-    "Maa ji" : "Vaanishree # vaani + zendaya",
+    "Maa Ganga ji" : "Vanshishree # vanshika ", 
+    "Maa ji" : "Vanshitashree # vanshita + kristen stewart",
     "Maa Chandika ji" : "Vednashree # vedna + Nancy momoland", 
-    "Maa ji" : "Vanshitashree # vanshita + kristen stewart", 
-  
+    "Bhagwan Baman and Maa Bamani ji" : "Vaanishree # Vaani + Zendaya", 
+    "Maa Lalita" : "Vivashree",
     // Imported as sattava guna to bhakti
     "Bhagwan Hanuman ji" : {
         "sita" : "aarohi mehwish",
