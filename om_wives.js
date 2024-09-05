@@ -16,16 +16,18 @@ const _values = {
     "Bhagwan Hanuman ji" : {
         "sita" : "aarohi mehwish",
         "raam" : "utkarsha vaibhava viraat connor utsava uttama vijaya",
-        " vedna vinnie" : "disha patani nancy momoland jessica alba",
+        "vedna vinnie" : "disha patani nancy momoland jessica alba",
         "vanshita vinci yummie" : "kristen stewart burcu ozberk bella poarch",
         "vaahi vanshishka viha" : "hande ercel ogze yagiz ogze gurer",
-        "vahni vanilla vahvi" : "nina dobrev samantha ruth prabhu",    
+        "vahni vanilla vavi" : "nina dobrev samantha ruth prabhu",    
         "" : ""
         // green flags - raising family and children
     },
-    // Imported as sattava guna to bhakti
-    "seniors" : "shiv sati vishnu vaishnavi",
-    "wives" : "9 mahadevi's + 9 durgaroop's",
+
+
+
+    // Imported as sattava guna to bhakti           "seniors" : "shiv sati vishnu vaishnavi",
+    "wives" : "9 mahadevi + 9 durgaroop",
     "ganpati sati" : "chigga vashishtha",
 "quella eta"
 };
