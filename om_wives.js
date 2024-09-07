@@ -14,7 +14,7 @@ const _values = {
     "Maa Lalita" : "Vivashree",
     // Imported as sattava guna to bhakti
     "Bhagwan Hanuman ji" : {
-        "sita" : "aarohi mehwish",
+        "sita" : "aarohi # shraddha kapoor, mehwish # mehwish gigi hadid",
         "raam" : "utkarsha vaibhava viraat connor utsava uttama vijaya",
         "vedna vinnie" : "disha patani nancy momoland jessica alba",
         "vanshita vinci yummie" : "kristen stewart burcu ozberk bella poarch",
