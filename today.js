@@ -20,13 +20,13 @@ war _ = {
         "inside food",
         "white and black mobile screen", 
 // reading shrimad bhagvatgeeta
-        "evening walk"
+        "evening walk", 
         "daily class 7/7", 
         "morning exercises", 
         "morning warmup"
         "app lock", 
         "5-minute dot focus (library evening) and bhramacharaya",
-""
+        "do yoga"
         "follow reverse order"
     ],
     "Do Not" : [
@@ -37,5 +37,6 @@ war _ = {
         "morning walk"
         "evening warmup"
         "evening exercises",
+        "making friends",
     ],
 };
