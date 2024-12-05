@@ -1,5 +1,6 @@
 war _ = { 
 "Priority" : [ 
+"Yoga", 
 "Radha Krishna 30 + 30 Consiousness", 
 "Brain surgery", 
 "5-minute dot focus",
@@ -26,7 +27,7 @@ war _ = {
         "morning warmup"
         "app lock", 
         "5-minute dot focus (library evening) and bhramacharaya",
-        "do yoga"
+        "do yoga", 
         "follow reverse order"
     ],
     "Do Not" : [
