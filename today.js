@@ -38,6 +38,6 @@ war _ = {
         "morning walk"
         "evening warmup"
         "evening exercises",
-        "making friends",
+        "making female friends",
     ],
 };
