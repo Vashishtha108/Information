@@ -40,6 +40,5 @@ Awar _ = {
         "listening bollywood songs"
         "evening exercises",
         "making female friends",
-
     ],
 };
