@@ -1,4 +1,4 @@
-war _ = { 
+Awar _ = { 
 "Priority" : [ 
 "Yoga", 
 "Radha Krishna 30 + 30 Consiousness", 
@@ -37,7 +37,9 @@ war _ = {
         "late sleep",
         "morning walk"
         "evening warmup"
+        "listening bollywood songs"
         "evening exercises",
         "making female friends",
+
     ],
 };
