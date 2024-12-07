@@ -35,10 +35,11 @@ Awar _ = {
         "laptop",
         "outside food", 
         "late sleep",
-        "morning walk"
-        "evening warmup"
-        "listening bollywood songs"
+        "morning walk", 
+        "evening warmup",
         "evening exercises",
-        "making female friends",
+        "making female friends", 
+        "listening bollywood songs", 
+        "watching digital creative content",
     ],
 };
