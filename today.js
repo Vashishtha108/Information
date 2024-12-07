@@ -33,7 +33,7 @@ Awar _ = {
     "Do Not" : [
         "pc games",
         "laptop",
-        "outside food", 
+        "eating outside food", 
         "late sleep",
         "morning walk", 
         "evening warmup",
