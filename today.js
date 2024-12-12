@@ -32,7 +32,7 @@ Awar _ = {
     ],
     "Do Not" : [
         "pc games",
-        "laptop",
+        "laptop"
         "eating outside food", 
         "late sleep",
         "morning walk", 
@@ -41,6 +41,6 @@ Awar _ = {
         "making female friends", 
         "listening bollywood songs", 
         "watching digital creative content",
-        "eating sugar, salt, onion, oil food"
+        "eating sugar, salt, onion, oil food",
     ],
 };
