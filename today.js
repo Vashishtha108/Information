@@ -27,7 +27,7 @@ Awar _ = {
         "morning warmup"
         "app lock", 
         "5-minute dot focus (library evening) and bhramacharaya",
-        "do yoga", 
+        "do yoga 10*12", 
         "follow reverse order"
     ],
     "Do Not" : [
