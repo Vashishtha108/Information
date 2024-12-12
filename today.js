@@ -41,6 +41,6 @@ Awar _ = {
         "making female friends", 
         "listening bollywood songs", 
         "watching digital creative content",
-        "eating sugar, salt, onion food"
+        "eating sugar, salt, onion, oily food"
     ],
 };
