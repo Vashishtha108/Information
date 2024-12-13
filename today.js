@@ -42,5 +42,6 @@ Awar _ = {
         "listening bollywood songs", 
         "watching digital creative content",
         "eating sugar, salt, onion, oil food",
+        "telepathic conversation"
     ],
 };
