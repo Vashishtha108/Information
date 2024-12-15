@@ -41,8 +41,7 @@ Awar _ = {
         "making female friends", 
         "listening bollywood songs", 
         "watching digital creative content",
-        "eating sugar, salt, onion, oil food",
-        "telepathic conversation", 
+        "eating sugar, salt, onion, oil food", 
         "cursing and demoralizing people", 
         "abusing bad words"
     ],
