@@ -41,9 +41,10 @@ Awar _ = {
         "evening exercises",
         "making female friends", 
         "listening bollywood songs", 
+        "watching bollywood movies", 
         "watching digital creative content",
         "eating sugar, salt, onion, oil food", 
         "cursing and demoralizing people", 
-        "abusing bad words"
+        "abusing bad words",
     ],
 };
