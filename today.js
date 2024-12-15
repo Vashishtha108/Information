@@ -28,7 +28,8 @@ Awar _ = {
         "app lock", 
         "breathing exercises", 
         "listening bhakti songs", 
-        "listening ", 
+        "listening sadhguru videos", 
+        "listening premanand maharaj videos", 
         "5-minute dot focus (library evening) and bhramacharaya",
         "do yoga 10*12", 
         "follow reverse order"
