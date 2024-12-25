@@ -19,6 +19,7 @@ Awar _ = {
         "prayers and devotion", 
         "hot water"
         "inside food",
+        "watching quality content", 
         "white and black mobile screen", 
 // reading shrimad bhagvatgeeta
         "evening walk", 
