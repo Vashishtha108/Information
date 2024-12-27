@@ -31,6 +31,7 @@ Awar _ = {
         "listening bhakti songs", 
         "listening sadhguru videos", 
         "listening premanand maharaj videos", 
+        "mala jap and 30 chalisas"
         "5-minute dot focus (library evening) and bhramacharaya",
         "do yoga 10*12", 
         "follow reverse order"
