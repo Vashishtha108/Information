@@ -21,7 +21,7 @@ Awar _ = {
         "inside food",
         "watching quality content", 
         "white and black mobile screen", 
-// reading shrimad bhagvatgeeta
+        // reading shrimad bhagvatgeeta
         "evening walk", 
         "daily class 7/7", 
         "morning exercises", 
