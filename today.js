@@ -15,7 +15,7 @@ Awar _ = {
         "11:00 pm - 04:00 pm" : "sleep", 
     },
     "Do" : [
-        "2-hour reading self-help books and novels", 
+        "2-hour reading self-help books and novels", "chess", "creation"
         "prayers and devotion", 
         "hot water"
         "inside food",
