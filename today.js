@@ -40,7 +40,7 @@ Awar _ = {
         "pc games",
         "laptop",
         "mobile"
-        "eating outside food", 
+        "eating outside food",
         "late sleep",
         "morning walk", 
         "evening warmup",
@@ -49,7 +49,8 @@ Awar _ = {
         "listening bollywood songs", 
         "watching bollywood movies", 
         "watching digital creative content",
-        "eating sugar, salt, onion, oil food", 
+        "eating sugar, salt, onion, oil food",
+        "imagination"
         "cursing and demoralizing people", 
         "abusing bad words",
     ],
